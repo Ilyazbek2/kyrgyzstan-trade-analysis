@@ -10,8 +10,6 @@ The study analyses the development and structure of Kyrgyzstan's merchandise tra
 
 The project combines quantitative analysis in Python with data visualization in Power BI.
 
----
-
 ## Research Objectives
 
 The main objectives of the study are to:
@@ -65,8 +63,6 @@ Trade with the European Union is strongly asymmetric, with EU exports to Kyrgyzs
 
 Increasing exports requires not only comparative advantage but also stronger production capacity, product diversification, market access, standards compliance, and international competitiveness.
 
----
-
 ## Methodology
 
 The project uses quantitative and descriptive methods, including:
@@ -83,8 +79,6 @@ The project uses quantitative and descriptive methods, including:
 
 Because the analysis contains only **11 annual observations**, the regression analysis is interpreted as exploratory and does not establish causal relationships.
 
----
-
 ## Data
 
 The project uses international and official trade data, including:
@@ -97,6 +91,4 @@ The project uses international and official trade data, including:
 The main Kyrgyzstan trade datasets contain annual export and import values in **million USD**.
 
 EU trade data are presented separately in **million EUR** where the original European Commission/Eurostat data are reported in EUR.
-
----
 
