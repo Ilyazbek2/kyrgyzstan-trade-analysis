@@ -11,10 +11,6 @@ venv/
 .venv/
 env/
 
-# Operating system
-.DS_Store
-Thumbs.db
-
 # IDE
 .vscode/
 .idea/
