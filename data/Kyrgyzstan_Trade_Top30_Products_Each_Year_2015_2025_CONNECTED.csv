@@ -1,0 +1,331 @@
+﻿id,product_id,product,year,import_value_m_usd,export_value_m_usd
+1,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2015,358.69,39.7
+2,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2015,778.14,75.22
+3,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2015,205.77,63.35
+4,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2015,27.75,669.43
+5,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2015,17.36,665.36
+6,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2015,17.36,665.33
+7,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2015,643.32,69.03
+8,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2015,0.0,0.0
+9,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2015,362.02,53.83
+10,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2015,172.15,35.94
+11,11,72 - IRON AND STEEL,2015,296.21,9.34
+12,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2015,281.29,15.2
+13,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2015,87.39,23.35
+14,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2015,0.0,0.0
+15,15,39 - PLASTICS AND ARTICLES THEREOF,2015,122.5,17.02
+16,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2015,0.0,0.0
+17,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2015,66.94,9.65
+18,18,30 - PHARMACEUTICAL PRODUCTS,2015,147.83,1.68
+19,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2015,0.0,0.0
+20,20,"26 - ORES, SLAG AND ASH",2015,0.0,0.0
+21,21,60 - KNITTED OR CROCHETED FABRICS,2015,0.0,0.0
+22,22,2616 - Precious-metal ores and concentrates,2015,0.0,0.0
+23,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2015,0.0,0.0
+24,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2015,134.15,1.67
+25,25,73 - ARTICLES OF IRON OR STEEL,2015,122.32,6.19
+26,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2015,0.0,0.0
+27,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2015,0.0,0.0
+28,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2015,0.0,0.0
+29,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2015,0.0,0.0
+30,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2015,0.0,0.0
+31,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2016,395.37,30.93
+32,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2016,401.74,48.95
+33,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2016,122.34,55.13
+34,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2016,5.63,707.47
+35,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2016,0.17,701.58
+36,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2016,0.17,701.58
+37,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2016,328.98,38.24
+38,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2016,0.0,0.0
+39,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2016,198.79,36.01
+40,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2016,207.57,23.24
+41,11,72 - IRON AND STEEL,2016,134.34,16.16
+42,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2016,129.97,2.22
+43,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2016,258.3,7.99
+44,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2016,0.0,0.0
+45,15,39 - PLASTICS AND ARTICLES THEREOF,2016,133.58,13.52
+46,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2016,0.0,0.0
+47,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2016,151.19,33.87
+48,18,30 - PHARMACEUTICAL PRODUCTS,2016,117.06,0.3
+49,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2016,0.0,0.0
+50,20,"26 - ORES, SLAG AND ASH",2016,0.0,0.0
+51,21,60 - KNITTED OR CROCHETED FABRICS,2016,0.0,0.0
+52,22,2616 - Precious-metal ores and concentrates,2016,0.0,0.0
+53,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2016,0.0,0.0
+54,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2016,106.97,0.29
+55,25,73 - ARTICLES OF IRON OR STEEL,2016,96.92,2.88
+56,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2016,0.0,0.0
+57,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2016,202.29,0.45
+58,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2016,0.0,0.0
+59,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2016,0.0,0.0
+60,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2016,0.0,0.0
+61,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2017,364.25,50.77
+62,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2017,636.26,87.15
+63,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2017,148.05,59.44
+64,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2017,5.1,726.29
+65,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2017,0.26,700.38
+66,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2017,0.23,700.38
+67,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2017,556.31,46.95
+68,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2017,0.0,0.0
+69,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2017,329.4,43.65
+70,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2017,254.37,22.5
+71,11,72 - IRON AND STEEL,2017,144.56,25.48
+72,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2017,226.87,3.2
+73,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2017,301.25,30.72
+74,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2017,0.0,0.0
+75,15,39 - PLASTICS AND ARTICLES THEREOF,2017,133.48,16.31
+76,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2017,0.0,0.0
+77,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2017,156.8,98.95
+78,18,30 - PHARMACEUTICAL PRODUCTS,2017,168.72,0.91
+79,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2017,0.0,0.0
+80,20,"26 - ORES, SLAG AND ASH",2017,2.39,144.75
+81,21,60 - KNITTED OR CROCHETED FABRICS,2017,0.0,0.0
+82,22,2616 - Precious-metal ores and concentrates,2017,0.0,144.24
+83,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2017,0.0,144.24
+84,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2017,156.24,0.9
+85,25,73 - ARTICLES OF IRON OR STEEL,2017,101.0,4.93
+86,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2017,0.0,0.0
+87,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2017,218.24,4.31
+88,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2017,0.0,0.0
+89,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2017,114.47,0.27
+90,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2017,0.0,0.0
+91,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2018,474.99,37.49
+92,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2018,901.42,139.28
+93,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2018,170.82,48.43
+94,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2018,12.3,682.33
+95,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2018,0.24,664.19
+96,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2018,0.24,664.19
+97,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2018,796.79,84.81
+98,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2018,0.0,0.0
+99,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2018,489.45,68.78
+100,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2018,307.2,22.22
+101,11,72 - IRON AND STEEL,2018,190.72,35.62
+102,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2018,306.73,15.76
+103,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2018,372.58,22.73
+104,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2018,0.0,0.0
+105,15,39 - PLASTICS AND ARTICLES THEREOF,2018,174.85,31.86
+106,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2018,0.0,0.0
+107,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2018,236.36,140.45
+108,18,30 - PHARMACEUTICAL PRODUCTS,2018,163.23,0.65
+109,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2018,0.0,0.0
+110,20,"26 - ORES, SLAG AND ASH",2018,4.1,124.57
+111,21,60 - KNITTED OR CROCHETED FABRICS,2018,0.0,0.0
+112,22,2616 - Precious-metal ores and concentrates,2018,0.0,124.48
+113,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2018,0.0,124.48
+114,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2018,149.76,0.61
+115,25,73 - ARTICLES OF IRON OR STEEL,2018,0.0,0.0
+116,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2018,144.0,0.86
+117,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2018,251.75,0.67
+118,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2018,0.0,0.0
+119,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2018,0.0,0.0
+120,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2018,0.0,0.0
+121,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2019,494.65,25.91
+122,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2019,687.59,119.95
+123,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2019,172.03,48.8
+124,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2019,11.87,853.53
+125,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2019,0.27,832.88
+126,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2019,0.27,832.88
+127,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2019,609.68,75.66
+128,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2019,0.0,0.0
+129,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2019,380.38,67.3
+130,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2019,362.45,15.5
+131,11,72 - IRON AND STEEL,2019,184.74,27.6
+132,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2019,229.24,8.35
+133,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2019,254.13,15.97
+134,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2019,0.0,0.0
+135,15,39 - PLASTICS AND ARTICLES THEREOF,2019,154.19,33.92
+136,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2019,0.0,0.0
+137,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2019,144.31,74.81
+138,18,30 - PHARMACEUTICAL PRODUCTS,2019,183.97,1.77
+139,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2019,0.0,0.0
+140,20,"26 - ORES, SLAG AND ASH",2019,2.33,162.69
+141,21,60 - KNITTED OR CROCHETED FABRICS,2019,0.0,0.0
+142,22,2616 - Precious-metal ores and concentrates,2019,0.01,162.14
+143,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2019,0.01,162.14
+144,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2019,168.3,1.68
+145,25,73 - ARTICLES OF IRON OR STEEL,2019,125.02,7.91
+146,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2019,200.54,2.19
+147,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2019,206.12,0.14
+148,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2019,0.0,0.0
+149,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2019,0.0,0.0
+150,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2019,0.0,0.0
+151,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2020,313.13,31.55
+152,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2020,483.79,81.71
+153,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2020,173.75,29.01
+154,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2020,4.59,1004.52
+155,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2020,0.29,987.0
+156,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2020,0.29,987.0
+157,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2020,407.4,44.39
+158,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2020,0.0,0.0
+159,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2020,251.9,43.73
+160,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2020,227.84,16.19
+161,11,72 - IRON AND STEEL,2020,124.7,26.6
+162,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2020,155.46,0.66
+163,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2020,0.0,0.0
+164,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2020,0.0,0.0
+165,15,39 - PLASTICS AND ARTICLES THEREOF,2020,124.92,30.78
+166,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2020,0.0,0.0
+167,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2020,57.93,43.28
+168,18,30 - PHARMACEUTICAL PRODUCTS,2020,195.49,0.83
+169,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2020,0.0,0.0
+170,20,"26 - ORES, SLAG AND ASH",2020,3.19,122.3
+171,21,60 - KNITTED OR CROCHETED FABRICS,2020,0.0,0.0
+172,22,2616 - Precious-metal ores and concentrates,2020,0.74,121.59
+173,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2020,0.74,121.59
+174,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2020,178.79,0.53
+175,25,73 - ARTICLES OF IRON OR STEEL,2020,157.96,6.51
+176,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2020,132.7,0.86
+177,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2020,0.0,0.0
+178,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2020,0.0,0.0
+179,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2020,0.0,0.0
+180,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2020,0.0,0.0
+181,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2021,444.5,28.57
+182,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2021,899.11,99.99
+183,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2021,302.91,53.82
+184,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2021,28.33,1426.9
+185,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2021,20.52,1413.0
+186,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2021,20.43,1413.0
+187,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2021,747.8,68.24
+188,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2021,147.95,8.41
+189,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2021,355.0,68.09
+190,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2021,326.45,73.18
+191,11,72 - IRON AND STEEL,2021,206.82,58.59
+192,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2021,392.49,0.15
+193,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2021,150.28,7.22
+194,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2021,0.0,0.0
+195,15,39 - PLASTICS AND ARTICLES THEREOF,2021,189.63,38.48
+196,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2021,0.0,0.0
+197,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2021,268.72,41.04
+198,18,30 - PHARMACEUTICAL PRODUCTS,2021,189.78,6.73
+199,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2021,0.0,0.0
+200,20,"26 - ORES, SLAG AND ASH",2021,2.82,177.79
+201,21,60 - KNITTED OR CROCHETED FABRICS,2021,231.61,0.9
+202,22,2616 - Precious-metal ores and concentrates,2021,0.04,156.5
+203,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2021,0.04,156.5
+204,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2021,168.98,4.57
+205,25,73 - ARTICLES OF IRON OR STEEL,2021,115.38,9.11
+206,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2021,157.33,54.33
+207,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2021,0.0,0.0
+208,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2021,198.57,0.12
+209,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2021,0.0,0.0
+210,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2021,0.0,0.0
+211,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2022,1132.9,87.03
+212,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2022,1076.82,198.85
+213,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2022,733.86,72.78
+214,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2022,0.0,0.0
+215,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2022,0.0,0.0
+216,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2022,0.0,0.0
+217,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2022,877.67,144.31
+218,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2022,538.85,23.55
+219,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2022,515.48,143.99
+220,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2022,532.54,121.71
+221,11,72 - IRON AND STEEL,2022,270.48,68.02
+222,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2022,362.19,0.32
+223,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2022,539.69,64.62
+224,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2022,0.0,0.0
+225,15,39 - PLASTICS AND ARTICLES THEREOF,2022,302.4,49.08
+226,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2022,0.0,0.0
+227,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2022,311.38,108.48
+228,18,30 - PHARMACEUTICAL PRODUCTS,2022,238.5,1.46
+229,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2022,0.0,0.0
+230,20,"26 - ORES, SLAG AND ASH",2022,0.0,0.0
+231,21,60 - KNITTED OR CROCHETED FABRICS,2022,717.24,54.32
+232,22,2616 - Precious-metal ores and concentrates,2022,0.0,0.0
+233,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2022,0.0,0.0
+234,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2022,204.88,1.09
+235,25,73 - ARTICLES OF IRON OR STEEL,2022,0.0,0.0
+236,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2022,258.18,83.57
+237,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2022,0.0,0.0
+238,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2022,538.92,50.81
+239,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2022,278.05,30.15
+240,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2022,455.15,46.65
+241,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2023,2589.43,216.45
+242,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2023,934.91,201.06
+243,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2023,3208.56,137.04
+244,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2023,34.52,1285.92
+245,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2023,18.18,1284.33
+246,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2023,18.18,1284.33
+247,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2023,768.7,113.36
+248,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2023,2772.17,72.13
+249,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2023,469.95,108.93
+250,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2023,654.34,165.38
+251,11,72 - IRON AND STEEL,2023,310.87,60.17
+252,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2023,298.7,4.27
+253,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2023,286.48,43.12
+254,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2023,1041.93,58.57
+255,15,39 - PLASTICS AND ARTICLES THEREOF,2023,265.68,52.27
+256,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2023,1025.69,0.08
+257,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2023,0.0,0.0
+258,18,30 - PHARMACEUTICAL PRODUCTS,2023,231.59,4.5
+259,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2023,904.84,11.36
+260,20,"26 - ORES, SLAG AND ASH",2023,0.0,0.0
+261,21,60 - KNITTED OR CROCHETED FABRICS,2023,429.93,28.9
+262,22,2616 - Precious-metal ores and concentrates,2023,0.0,0.0
+263,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2023,0.0,0.0
+264,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2023,0.0,0.0
+265,25,73 - ARTICLES OF IRON OR STEEL,2023,0.0,0.0
+266,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2023,299.94,93.65
+267,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2023,0.0,0.0
+268,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2023,310.22,0.27
+269,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2023,0.0,0.0
+270,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2023,0.0,0.0
+271,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2024,3071.74,205.4
+272,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2024,1276.22,273.68
+273,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2024,2277.8,85.62
+274,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2024,24.07,1429.03
+275,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2024,1.76,1405.98
+276,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2024,1.76,1405.98
+277,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2024,1064.77,183.56
+278,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2024,1730.04,14.73
+279,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2024,741.8,135.08
+280,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2024,625.54,140.12
+281,11,72 - IRON AND STEEL,2024,394.42,43.43
+282,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2024,322.89,48.33
+283,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2024,149.39,176.94
+284,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2024,1260.43,41.93
+285,15,39 - PLASTICS AND ARTICLES THEREOF,2024,246.52,68.97
+286,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2024,1243.9,0.05
+287,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2024,0.0,0.0
+288,18,30 - PHARMACEUTICAL PRODUCTS,2024,238.37,2.17
+289,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2024,529.04,4.55
+290,20,"26 - ORES, SLAG AND ASH",2024,0.0,0.0
+291,21,60 - KNITTED OR CROCHETED FABRICS,2024,0.0,0.0
+292,22,2616 - Precious-metal ores and concentrates,2024,0.0,0.0
+293,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2024,0.0,0.0
+294,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2024,0.0,0.0
+295,25,73 - ARTICLES OF IRON OR STEEL,2024,0.0,0.0
+296,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2024,246.82,90.19
+297,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2024,0.0,0.0
+298,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2024,0.0,0.0
+299,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2024,0.0,0.0
+300,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2024,0.0,0.0
+301,1,"84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",2025,2155.95,180.26
+302,2,"27 - MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES",2025,1279.14,248.11
+303,3,"87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",2025,1876.54,93.42
+304,4,"71 - NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN",2025,40.94,690.2
+305,5,"7108 - Gold, incl. gold plated with platinum, unwrought or not further worked than semi-manufactured or in powder form",2025,11.78,682.87
+306,6,"710812 - Gold, incl. gold plated with platinum, unwrought, for non-monetary purposes (excl. gold in powder form)",2025,11.78,682.87
+307,7,"2710 - Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals",2025,1028.38,152.29
+308,8,"8703 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars (excl. motor vehicles of heading 8702)",2025,1071.31,15.73
+309,9,"271019 - Medium oils and preparations, of petroleum or bituminous minerals, not containing biodiesel, n.e.s.",2025,706.73,122.58
+310,10,"85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",2025,792.23,138.45
+311,11,72 - IRON AND STEEL,2025,597.47,36.37
+312,12,"271012 - Light oils and preparations, of petroleum or bituminous minerals which >= 90% by volume ""incl. losses"" distil at 210°C ""ASTM D 86 method"" (excl. containing biodiesel)",2025,321.64,29.72
+313,13,"64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",2025,0.0,0.0
+314,14,"8422 - Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, incl. heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof",2025,247.47,1.92
+315,15,39 - PLASTICS AND ARTICLES THEREOF,2025,327.22,88.9
+316,16,"842290 - Parts of dishwashing machines, packing or wrapping machinery and other machinery and apparatus of heading 8422, n.e.s.",2025,226.06,0.28
+317,17,"61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED",2025,0.0,0.0
+318,18,30 - PHARMACEUTICAL PRODUCTS,2025,273.72,2.75
+319,19,"870323 - Motor cars and other motor vehicles principally designed for the transport of <10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity > 1.500 cm³ but <= 3.000 cm³ (excl. vehicles for travelling on snow and other specially designed vehicles of subheading 8703.10)",2025,314.8,1.54
+320,20,"26 - ORES, SLAG AND ASH",2025,6.92,433.41
+321,21,60 - KNITTED OR CROCHETED FABRICS,2025,0.0,0.0
+322,22,2616 - Precious-metal ores and concentrates,2025,0.74,413.3
+323,23,261690 - Precious-metal ores and concentrates (excl. silver ores and oncentrates),2025,0.74,413.3
+324,24,"3004 - Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those for transdermal administration"" or in forms or packings for retail sale (excl. goods of heading 3002, 3005 or 3006)",2025,241.5,2.23
+325,25,73 - ARTICLES OF IRON OR STEEL,2025,315.15,8.61
+326,26,"8517 - Telephone sets, incl. smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, incl. apparatus for communication in a wired or wireless network, parts thereof (excl. transmission or reception apparatus of heading 8443, 8525, 8527 or 8528)",2025,301.28,96.92
+327,27,"6402 - Footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear of heading 6401, orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)",2025,0.0,0.0
+328,28,"600410 - Knitted or crocheted fabrics, of a width of > 30 cm, containing >= 5% by weight elastomeric yarn (excl. containing rubber thread, pile fabrics, incl. ""long pile"", looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)",2025,0.0,0.0
+329,29,54 - MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS,2025,0.0,0.0
+330,30,83 - MISCELLANEOUS ARTICLES OF BASE METAL,2025,0.0,0.0
