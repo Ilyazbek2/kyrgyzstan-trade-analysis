@@ -77,7 +77,6 @@ The project uses quantitative and descriptive methods, including:
 - EU trade comparison;
 - exploratory linear regression.
 
-Because the analysis contains only **11 annual observations**, the regression analysis is interpreted as exploratory and does not establish causal relationships.
 
 ## Data
 
@@ -89,6 +88,4 @@ The project uses international and official trade data, including:
 - official Kyrgyz statistical sources.
 
 The main Kyrgyzstan trade datasets contain annual export and import values in **million USD**.
-
-EU trade data are presented separately in **million EUR** where the original European Commission/Eurostat data are reported in EUR.
 
