@@ -23,8 +23,6 @@ The main objectives of the study are to:
 - analyse export and import trends using exploratory regression;
 - evaluate the opportunities and challenges for export diversification.
 
----
-
 ## Research Period
 
 The empirical analysis covers the period:
