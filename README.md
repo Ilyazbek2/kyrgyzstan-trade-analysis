@@ -86,4 +86,3 @@ The project uses international and official trade data, including:
 - official Kyrgyz statistical sources.
 
 The main Kyrgyzstan trade datasets contain annual export and import values in **million USD**.
-
